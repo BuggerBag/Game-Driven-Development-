@@ -4,3 +4,6 @@
 
 ### AWS Lumberyard
 ♘ Beginning Game Development with Amazon Lumberyard Create 3D Games Using Amazon Lumberyard and Lua
+♘ Learning AWS Lumberyard Game Development by Dr. Edward Lavieri [Dr. Edward Lavieri]
+
+### Belender
