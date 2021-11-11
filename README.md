@@ -1,5 +1,5 @@
 # Game Driven Development (GDD)
-<img src="https://splianel.sirv.com/gdd.JPG" width="50%" height="50%" alt="" /> <br>
+<img src="https://splianel.sirv.com/gdd.JPG" width="60%" height="60%" alt="" /> <br>
 #### 🍪 you can download many useful books for game development, all of them are free! :)
 
 ### AWS Lumberyard
