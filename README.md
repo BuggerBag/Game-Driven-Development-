@@ -3,7 +3,7 @@
 #### 🍪 you can download many useful books for game development, all of them are free! :)
 
 ### AWS Lumberyard
-♘ Beginning Game Development with Amazon Lumberyard Create 3D Games Using Amazon Lumberyard and Lua
+♘ Beginning Game Development with Amazon Lumberyard Create 3D Games Using Amazon Lumberyard and Lua <br>
 ♘ Learning AWS Lumberyard Game Development by Dr. Edward Lavieri [Dr. Edward Lavieri]
 
-### Belender
+### Blender
