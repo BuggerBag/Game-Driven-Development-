@@ -25,7 +25,7 @@
 ♘ Coding Roblox Games Made Easy The ultimate guide to creating games with Roblox Studio and Lua programming by Zander Brumbaugh <br>
 ♘ Roblox Game Development in 24 Hours The Official Roblox Guide by Roblox Corporation <br>
 
-### unity engine
+### Unity Engine
 ♘ Basic Math for Game Development with Unity 3D A Beginners Guide to Mathematical Foundations by Kelvin Sung, Gregory Smith <br>
 ♘ Creating Games With Unity, Substance Painter,  Maya Models, Textures, Animation,  Code by Jingtian Li, Adam Watkins, Kassandra Arevalo  Matthew Tovar <br>
 ♘ Hands-On Unity 2021 Game Development Second Edition <br>
@@ -35,7 +35,7 @@
 ♘ Unity 2020 By Example A project-based guide to building 2D, 3D, augmented reality, and virtual reality games from scratch, 3rd Edition by Robert Wells <br>
 ♘ Unity in Action Multiplatform game development in C by Joe Hocking <br>
 
-### unreal engine
+### Unreal Engine
 ♘ Beginning Unreal Game Development Foundation for Simple to Complex Games Using Unreal Engine 4 by David Nixon <br>
 ♘ Creating Games with Unreal Engine, Substance Painter,  Maya Models, Textures, Animation,  Blueprint by Kassandra Arevalo, Matthew Tovar, Jingtian Li <br>
 ♘ Unreal Engine 4 for Design Visualization Developing Stunning Interactive Visualizations, Animations, and Renderings by Shannon, Tom <br>
